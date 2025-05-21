@@ -79,8 +79,8 @@
             "price": "350₺"
           },
           "en": {
-            "name": "Kadeh Şarap Beyaz",
-            "desc": "Kadeh Şarap Beyaz is specially prepared with unique presentation.",
+            "name": "Glass of White Wine",
+            "desc": "Glass of White Wine is specially prepared with unique presentation.",
             "price": "350₺"
           }
         },
@@ -91,8 +91,8 @@
             "price": "350₺"
           },
           "en": {
-            "name": "Kadeh Şarap Kırmızı",
-            "desc": "Kadeh Şarap Kırmızı is specially prepared with unique presentation.",
+            "name": "Glass of Red Wine",
+            "desc": "Glass of Red Wine is specially prepared with unique presentation.",
             "price": "350₺"
           }
         },
@@ -103,8 +103,8 @@
             "price": "350₺"
           },
           "en": {
-            "name": "Kadeh Şarap Roze",
-            "desc": "Kadeh Şarap Roze is specially prepared with unique presentation.",
+            "name": "Glass of Rosé Wine",
+            "desc": "Glass of Rosé Wine is specially prepared with unique presentation.",
             "price": "350₺"
           }
         },
@@ -187,8 +187,8 @@
             "price": "1400₺"
           },
           "en": {
-            "name": "Likya Fox Tilki Kuyruğu Blush",
-            "desc": "Likya Fox Tilki Kuyruğu Blush is specially prepared with unique presentation.",
+            "name": "Likya Fox Tail Blush",
+            "desc": "Likya Fox Tail Blush is specially prepared with unique presentation.",
             "price": "1400₺"
           }
         }
@@ -649,8 +649,8 @@
             "price": "300₺"
           },
           "en": {
-            "name": "Rakı Tek",
-            "desc": "Rakı Tek is specially prepared with unique presentation.",
+            "name": "Single Rakı",
+            "desc": "Single Rakı is specially prepared with unique presentation.",
             "price": "300₺"
           }
         },
@@ -661,8 +661,8 @@
             "price": "500₺"
           },
           "en": {
-            "name": "Rakı Duble",
-            "desc": "Rakı Duble is specially prepared with unique presentation.",
+            "name": "Double Rakı",
+            "desc": "Double Rakı is specially prepared with unique presentation.",
             "price": "500₺"
           }
         }
