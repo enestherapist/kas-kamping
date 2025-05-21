@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "id": "signature_kokteyller",
+      "tr": "Signature Kokteyller",
+      "en": "Signature Cocktails",
+      "items": [
+        {
+          "tr": {
+            "name": "Lush Sorrel",
+            "desc": "Lush Sorrel özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Lush Sorrel",
+            "desc": "Lush Sorrel is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        }
+      ]
+    }
+  ]
+}
