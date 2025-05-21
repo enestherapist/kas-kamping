@@ -16,6 +16,49 @@
             "desc": "Lush Sorrel is specially prepared with unique presentation.",
             "price": "670₺"
           }
+        },
+        {
+          "tr": {
+            "name": "Ocean Breeze",
+            "desc": "Ocean Breeze özel sunumuyla hazırlanır.",
+            "price": "670₺"
+          },
+          "en": {
+            "name": "Ocean Breeze",
+            "desc": "Ocean Breeze is specially prepared with unique presentation.",
+            "price": "670₺"
+          }
+        }
+      ]
+    },
+    {
+      "id": "şaraplar",
+      "tr": "Şaraplar",
+      "en": "Wines",
+      "items": [
+        {
+          "tr": {
+            "name": "Kadeh Şarap Beyaz",
+            "desc": "Kadeh Şarap Beyaz özel sunumuyla hazırlanır.",
+            "price": "350₺"
+          },
+          "en": {
+            "name": "Glass of White Wine",
+            "desc": "Prepared with special presentation.",
+            "price": "350₺"
+          }
+        },
+        {
+          "tr": {
+            "name": "Arykanda Chardonnay",
+            "desc": "Arykanda Chardonnay özel sunumuyla hazırlanır.",
+            "price": "1600₺"
+          },
+          "en": {
+            "name": "Arykanda Chardonnay",
+            "desc": "Specially prepared with unique presentation.",
+            "price": "1600₺"
+          }
         }
       ]
     }
